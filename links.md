@@ -21,5 +21,5 @@ Jekkyl's front matter explained
 - [Vim Editor](https://web.stanford.edu/class/cs107/resources/vim#:~:text=To%20go%20into%20INSERT%20mode,you%20type%20the%20esc%20key.) --- 
 An overview of the vim editor
 
-[AWK command](https://www.digitalocean.com/community/tutorials/awk-command-linux) ---
-take a look into AWK Linux command and see what it can do.
+- [AWK Command](https://www.digitalocean.com/community/tutorials/awk-command-linux) ---
+A look into AWK Linux command and see what it can do
