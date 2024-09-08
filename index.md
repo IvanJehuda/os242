@@ -3,4 +3,4 @@
 
 # Index -- Ivan Jehuda Angi
 
-[LINKS](LINKS/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/IvanJehuda/os242/)
+[LINKS](https://IvanJehuda.github.io/os242/LINKS/) --- [LOG](TXT/mylog.txt) --- [GitHub](https://github.com/IvanJehuda/os242/)
