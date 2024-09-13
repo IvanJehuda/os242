@@ -23,3 +23,22 @@ An overview of the vim editor
 
 - [AWK Command](https://www.digitalocean.com/community/tutorials/awk-command-linux) ---
 A look into AWK Linux command and see what it can do
+
+- [C Language](https://youtu.be/dTp0c41XnrQ?si=4iRbYzBoo5khyJ4K) ---
+Video is for anyone who wants to learn C language or wants to revise things about C language in quick time.
+
+- [Mid Term Example](https://rms46.vlsm.org/2/197.pdf) ---
+Previous Operation Systems MidTerm Problems.
+
+- [Cyber Security Course] (https://www.youtube.com/watch?v=U_P23SqJaDc) ---
+Learn everything you need in order to understand cyber security in depth.
+
+- [Employee Security Policy] (https://www.youtube.com/watch?v=CivG_2UqKMg) ---
+Learn about Employee Security Policy in this in depth video.
+
+- [Online Privacy] (https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/) ---
+The Beginner’s Guide To Online Privacy
+
+- [Digital Privacy] (https://www.youtube.com/watch?v=u8_9AQYLSbo)
+The Beginner’s Guide to Digital Privacy
+
