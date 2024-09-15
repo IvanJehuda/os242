@@ -30,15 +30,15 @@ Video is for anyone who wants to learn C language or wants to revise things abou
 - [Mid Term Example](https://rms46.vlsm.org/2/197.pdf) ---
 Previous Operation Systems MidTerm Problems.
 
-- [Cyber Security Course] (https://www.youtube.com/watch?v=U_P23SqJaDc) ---
+- [Cyber Security Course](https://www.youtube.com/watch?v=U_P23SqJaDc) ---
 Learn everything you need in order to understand cyber security in depth.
 
-- [Employee Security Policy] (https://www.youtube.com/watch?v=CivG_2UqKMg) ---
+- [Employee Security Policy](https://www.youtube.com/watch?v=CivG_2UqKMg) ---
 Learn about Employee Security Policy in this in depth video.
 
-- [Online Privacy] (https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/) ---
+- [Online Privacy](https://www.freecodecamp.org/news/the-beginners-guide-to-online-privacy-7149b33c4a3e/) ---
 The Beginner’s Guide To Online Privacy
 
-- [Digital Privacy] (https://www.youtube.com/watch?v=u8_9AQYLSbo)
+- [Digital Privacy](https://www.youtube.com/watch?v=u8_9AQYLSbo)
 The Beginner’s Guide to Digital Privacy
 
