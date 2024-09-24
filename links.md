@@ -42,3 +42,18 @@ The Beginner’s Guide To Online Privacy
 - [Digital Privacy](https://www.youtube.com/watch?v=u8_9AQYLSbo)
 The Beginner’s Guide to Digital Privacy
 
+- [Linux File System](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+Linux File System/Structure Explained!
+
+- [File System Mounting](https://www.youtube.com/watch?v=QT1mBAJBuoA)
+File Sytem Mounting explained in this quick video!
+
+- [File System Structure](https://www.youtube.com/watch?v=DEtBiHvBPJ8)
+How File System Implementation is done for any OS
+
+- [File Allocation Table](https://www.youtube.com/watch?v=V2Gxqv3bJCk)
+A comprehensive introduction to the File Allocation Table format. 
+
+- [File system in userspace](https://www.youtube.com/watch?v=LZCILvr5tUk)
+how to get started with FUSE
+
