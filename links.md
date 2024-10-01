@@ -57,3 +57,18 @@ A comprehensive introduction to the File Allocation Table format.
 - [File system in userspace](https://www.youtube.com/watch?v=LZCILvr5tUk)
 how to get started with FUSE
 
+- [Addressing, Shared Lib, & Pointer](https://youtu.be/uFj7mKNq1t0)
+2021 Recording of Addressing, Shared Lib, & Pointer class
+
+- [Shared Libraries](https://jhucsf.github.io/spring2021/lectures/lecture19-public.pdf)
+PDF slides discussing shared libraries
+
+- [Introduction to Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA)
+Pointer definition and example in C Programming
+
+- [Memory Management](https://www.youtube.com/watch?v=Ag4p5yCqte8)
+Simple video explaining the memory management module
+
+- [Virtual Memorty](https://www.youtube.com/watch?v=2quKyPnUShQ)
+Video by Gary Sims explaing virtual memory
+
