@@ -72,3 +72,13 @@ Simple video explaining the memory management module
 - [Virtual Memorty](https://www.youtube.com/watch?v=2quKyPnUShQ)
 Video by Gary Sims explaing virtual memory
 
+- [Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0)
+MIT 6.004 Computation Structures Lecture
+
+- [Virtual Memory: 13 TLBs and Caches](https://www.youtube.com/watch?v=3sX5obQCHNA)
+Physical caches. Virtual caches. Virtual address tags, physical address tags. VIPT: Virtually Indexed, Physically Tagged cache example. VIPT cache size limitation
+
+- [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+Virtual Memory explained
+
+
