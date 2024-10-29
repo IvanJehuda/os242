@@ -81,4 +81,9 @@ Physical caches. Virtual caches. Virtual address tags, physical address tags. VI
 - [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 Virtual Memory explained
 
+-- [Fork in Operating System](https://www.geeksforgeeks.org/fork-system-call-in-operating-system/)
+Fork in OS explained
+
+- [Fork in C Programming Language](https://www.geeksforgeeks.org/fork-system-call/)
+Fork in C explained
 
