@@ -87,3 +87,12 @@ Fork in OS explained
 - [Fork in C Programming Language](https://www.geeksforgeeks.org/fork-system-call/)
 Fork in C explained
 
+- [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)
+Learn about the critical region in process synchronization with real time example
+
+- [Process Synchronisation - Operating Systems](https://www.youtube.com/watch?v=eKKc0d7kzww)
+Process Synchronization discussed
+
+- [Mutex vs Synchronization](https://www.youtube.com/watch?v=jkRN9zcLH1s)
+Comprehensive introduction to Mutex vs Synchronization
+

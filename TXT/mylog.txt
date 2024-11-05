@@ -34,3 +34,8 @@ ZCZC W06 120 L01 Weekly Assignments
 ZCZC W06 60 L02 Studying for friday quiz
 ZCZC W06 30 L03 Friday quiz
 ZCZC W06 100 L04 Watching Videos
+ZCZC W07 240 L00 Class Lecture
+ZCZC W07 120 L01 Weekly Assignments
+ZCZC W07 60 L02 Studying for friday quiz
+ZCZC W07 30 L03 Friday quiz
+ZCZC W07 100 L04 Watching Videos
