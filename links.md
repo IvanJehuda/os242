@@ -96,3 +96,12 @@ Process Synchronization discussed
 - [Mutex vs Synchronization](https://www.youtube.com/watch?v=jkRN9zcLH1s)
 Comprehensive introduction to Mutex vs Synchronization
 
+- [CPU Scheduling Basics](https://www.youtube.com/watch?v=Jkmy2YLUbUY)
+Learn about the CPU Scheduling Basics with real time example
+
+- [Introduction to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)
+CPU Scheduling discussed
+
+- [CPU Synchronization](https://www.youtube.com/watch?v=2h3eWaPx8SA)
+Learn about CPU Synchronization
+
